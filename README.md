@@ -7,7 +7,6 @@ A collection of browser userscripts that add convenient mouse shortcuts to Comfy
 ### Middle-Click to Run Inference
 - **Description**: Triggers the "Run" button when middle-clicking anywhere in the ComfyUI interface
 - **Compatibility**: Works with RunPod instances and local ComfyUI installations
-- **Installation**: [Install script](./tm_middle_click_run.js)
 
 ## Installation
 
